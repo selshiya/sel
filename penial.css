@@ -1,0 +1,49 @@
+body
+{
+    background-color:lightblue;
+}
+header
+{
+    background-color: lightsteelblue;
+    color:whitesmoke;
+    padding: 50px;
+    text-align: center;
+    font: 1em sans-serif;
+    font-size:15 ;
+}
+nav
+{
+    background-color: lightslategray;
+    padding: 15px;
+}
+nav a 
+{
+    background-color: white;
+    padding: 15px;
+    float:inline-start ;
+}
+
+article 
+{
+    width: 21%;
+    padding: 5px;
+    text-align: justify;
+}
+
+aside
+{
+   float: right;
+   width: 21%;
+   padding:5px ;
+   text-align: right;
+   text-align: justify;
+}
+footer
+{
+    background-color:lightseagreen ;
+    padding: 5px;
+    color:whitesmoke;
+    content: space;
+    clear: both;
+    text-align: center;
+}
